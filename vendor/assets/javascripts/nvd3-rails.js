@@ -26,6 +26,7 @@
 //= require ./nvd3/src/models/multiBarHorizontalChart.js
 //= require ./nvd3/src/models/multiChart.js
 //= require ./nvd3/src/models/ohlcBar.js
+//= require ./nvd3/src/models/ohlcBarChart.js
 //= require ./nvd3/src/models/pie.js
 //= require ./nvd3/src/models/pieChart.js
 //= require ./nvd3/src/models/scatter.js
